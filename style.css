@@ -1,0 +1,43 @@
+
+body{
+    background-color: rgb(106, 112, 112);
+}
+.container{
+    height: 400px;
+    width:600px;
+    background: #f5f2f5;
+    margin: 20px auto;
+    border: 10px solid #ac3bac;
+    border-radius: 25px;
+    
+}
+.inputs{
+  margin-left: 20px ;
+}
+.result{
+    height: 120px;
+    width: 600px;
+    background: #ac3bac;     
+}
+p{  
+    color: white;
+    margin-left:20px ;
+    font-family: 'Oswald',sans-serif;
+    font-size:20px;
+}
+:placeholder-shown{
+    font-family: 'Oswald',sans-serif;
+    font-size:15px;
+}
+h1{
+    font-family: 'Oswald',sans-serif;
+    text-decoration: underline;
+    margin-left: 20px;
+}
+.inputfield{
+    border:none;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-color:#ac3bac;
+    background: #f5f2f5;
+}
